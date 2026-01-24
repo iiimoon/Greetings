@@ -12,19 +12,19 @@
 			containerPortal = 8B15C5782F2476DD009850AD /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 8B15C57F2F2476DD009850AD;
-			remoteInfo = Greetings;
+			remoteInfo = IKMGreetings;
 		};
 		8B15C59C2F2476DE009850AD /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 8B15C5782F2476DD009850AD /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 8B15C57F2F2476DD009850AD;
-			remoteInfo = Greetings;
+			remoteInfo = IKMGreetings;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		8B15C5802F2476DD009850AD /* Greetings.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Greetings.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8B15C5802F2476DD009850AD /* Greetings.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IKMGreetings.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B15C5912F2476DE009850AD /* GreetingsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GreetingsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B15C59B2F2476DE009850AD /* GreetingsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GreetingsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -110,10 +110,10 @@
 			fileSystemSynchronizedGroups = (
 				8B15C5822F2476DD009850AD /* Greetings */,
 			);
-			name = Greetings;
+			name = IKMGreetings;
 			packageProductDependencies = (
 			);
-			productName = Greetings;
+			productName = IKMGreetings;
 			productReference = 8B15C5802F2476DD009850AD /* Greetings.app */;
 			productType = "com.apple.product-type.application";
 		};
@@ -496,7 +496,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Greetings.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Greetings";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/IKMGreetings.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/IKMGreetings";
 				XROS_DEPLOYMENT_TARGET = 26.2;
 			};
 			name = Debug;
@@ -522,7 +522,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Greetings.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Greetings";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/IKMGreetings.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/IKMGreetings";
 				XROS_DEPLOYMENT_TARGET = 26.2;
 			};
 			name = Release;
@@ -547,7 +547,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_TARGET_NAME = Greetings;
+				TEST_TARGET_NAME = IKMGreetings;
 				XROS_DEPLOYMENT_TARGET = 26.2;
 			};
 			name = Debug;
@@ -572,7 +572,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_TARGET_NAME = Greetings;
+				TEST_TARGET_NAME = IKMGreetings;
 				XROS_DEPLOYMENT_TARGET = 26.2;
 			};
 			name = Release;
