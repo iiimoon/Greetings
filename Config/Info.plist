@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>LSApplicationCategoryType</key>
-	<string></string>
+	<string>public.app-category.lifestyle</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>CFBundleDevelopmentRegion</key>
